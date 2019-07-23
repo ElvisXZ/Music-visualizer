@@ -8,5 +8,3 @@ Need to be run on Processing 3.
 Used minim library 
 
 Effect parameter changes accordingly to the input sound's amplitude/volume as well as frequency.
-
-*/
